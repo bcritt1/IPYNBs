@@ -1,0 +1,10 @@
+gensim==3.8.3
+jupyterlab
+matplotlib
+nltk
+numpy
+plotly
+scikit-learn
+seaborn
+tqdm
+chakin
